@@ -20,7 +20,7 @@ The above model achieves ~1.7% character error rate.
 
 ### Dependencies:
 
-1. Tensorflow 1.14
+1. Tensorflow_gpu 1.14
 2. Keras 2.3.1
 3. OpenCV 4.0
 4. Numpy
