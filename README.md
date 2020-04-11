@@ -12,6 +12,9 @@ The above model achieves ~1.7% character error rate.
 #### Another Roi
 ![ROI input image_2](https://raw.githubusercontent.com/alphacoder01/hand-writting-recognition/master/images/a01-000u-01.png)
 
+#### CMD Output 
+![CMD SCR](https://raw.githubusercontent.com/alphacoder01/hand-writting-recognition/master/images/cmd_scr.png)
+
 #### Final output of the Model in the text file
 ![final output](https://raw.githubusercontent.com/alphacoder01/hand-writting-recognition/master/images/final_op.png)
 
