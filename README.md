@@ -4,6 +4,8 @@
 Using the `IAM-lines dataset`. A CRNN(VGG+LSTM) has been trained using `keras` to recognize the text in the input image once segmented lines are obtained using computer-vision algorithm.
 The above model achieves ~1.7% character error rate.
 
+![Segmented lines from input image](https://raw.githubusercontent.com/alphacoder01/hand-writting-recognition/master/images/a01-000u.png)
+
 ### Dependencies:
 
 1. Tensorflow 1.14
