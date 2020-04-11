@@ -72,7 +72,7 @@ for test_img in test_imgs:
     line_dir = '../data/tempSentences/'
     test_lines = os.listdir(line_dir)
     f = open(test_img[:-4]+'.txt','w+')
-# f = open('hello'+'.txt','w+')
+# f = open('a01-000u'+'.txt','w+')
 
     for test_img in test_lines:
         img = cv2.imread(line_dir+test_img,cv2.IMREAD_GRAYSCALE)
