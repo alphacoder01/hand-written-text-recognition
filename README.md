@@ -25,6 +25,10 @@ The above model achieves ~1.7% character error rate.
 3. OpenCV 4.0
 4. Numpy
 
+### Dataset
+A modified version of the IAM lines dataset iss used, which can be found here:
+`https://www.kaggle.com/ashish2001/iam-dataset-modified`
+
 ### How to use:
 
 Place the input images in `data/check_image` and run the following command in the `Code` directory.
