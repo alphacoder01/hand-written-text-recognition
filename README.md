@@ -26,14 +26,14 @@ The above model achieves ~1.7% character error rate.
 4. Numpy
 
 ### Dataset
-A modified version of the IAM lines dataset iss used, which can be found here:
+A modified version of the IAM lines dataset is used, which can be found here:
 `https://www.kaggle.com/ashish2001/iam-dataset-modified`
 
 ### How to use:
 
 Place the input images in `data/check_image` and run the following command in the `Code` directory.
 `python test.py --weight=../Pretrained_weights/Model--20--12.879.hdf5`
-This will generate one text file for each of the input image in the `check_image` directory containing the text.
+This will generate one text file for each of the input image in the `Code` directory containing the text, and will have the segmented lines stored in `data/Sentences/`
 
 ### Note:
 The Model works very accurately on pre-segmented lines, but the segmentation algorithm needs more refinement!!
