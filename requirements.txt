@@ -93,7 +93,7 @@ PyAudio==0.2.11
 pycodestyle==2.5.0
 pycparser==2.19
 pycrypto==2.6.1
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.6
 pylint==2.2.2
 pyOpenSSL==19.1.0
